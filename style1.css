@@ -1,0 +1,26 @@
+* {
+    color:rgb(210, 255, 192);
+}
+button {
+    color:black
+}
+#headingOne {
+    color:blue;
+}
+#headingTwo {
+    color:rgb(255, 0, 242)
+}
+#headingThree {
+    color:brown
+}
+#headingFour {
+    color:rgb(0, 255, 102)
+}
+#headingFive {
+    color:rgb(204, 0, 255)
+}
+
+button {
+    background-color:black
+}
+

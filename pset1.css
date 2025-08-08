@@ -1,0 +1,33 @@
+#box {
+background-color:blue;
+/* color:white; */
+}
+
+/*   .heading { 
+color:red;
+ }   */
+
+ h1, h2, h3 {
+    color:red;
+ }
+
+ button {
+    background-color:green;
+ }
+
+ h4 {
+        text-align: center;
+ }
+ h4 {
+    text-decoration: underline;
+ }
+ 
+ p {
+    text-decoration: overline;
+ }
+ 
+ p {
+    text-align: center;
+ }
+
+ 

@@ -1,0 +1,33 @@
+button{
+    background-color: black;
+}
+
+h1{
+    color:blue;
+    text-decoration:solid;
+    text-decoration-color: skyblue;
+    text-decoration-line:underline;
+}
+#one{ 
+    background-color: red;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-bottom: 25px;
+}
+#two{
+     background-color: yellow;
+     margin-bottom: 25px;
+     margin-left: 20px;
+}
+#three{
+     background-color: green;
+     margin-bottom: 25px;
+     margin-left: 20px;
+}
+div{
+    height:100px;
+    width: 125px;
+    border-color: black;
+    border-radius: 50%;
+}
+
