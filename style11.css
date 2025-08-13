@@ -1,0 +1,20 @@
+div{
+    height: 100px;
+    width: 100px;
+    background-color: aqua;
+    border: 2px solid black;
+    display: inline-block;
+}
+
+body{
+    background-image: url("Dog_photo.jpg");
+    background-size:cover;
+}
+div{
+    background-image: url("cat_photo.jpg");
+    background-size: cover;
+}
+#box2{
+    background-image: url("Dog_photo.jpg");
+    background-size:cover;
+}

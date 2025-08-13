@@ -3,4 +3,9 @@ div {
   width: 100px;
   margin: 50px;
   padding: 50px;
+  display:inline-block;
+}
+
+#box2 {
+  visibility:hidden;
 }
